@@ -4,6 +4,8 @@
 
 <a href="http://d2yo55qh5v3h5b.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14279366/3c3df178-fb70-11e5-86f1-38a9771cf3db.jpg" width="317" height="91"></a>
 
+[![xjy500](https://cloud.githubusercontent.com/assets/18081243/19227594/9beb5ac4-8eab-11e6-8e7d-61590baadba1.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N500.pdf)
+
 [![xjy499](https://cloud.githubusercontent.com/assets/18081243/18942119/0c9fd2a8-8606-11e6-877e-6a89cd6f441e.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N499.pdf) | [![xjy498](https://cloud.githubusercontent.com/assets/18081243/18942116/09e95610-8606-11e6-8f60-af4b38743c45.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N498.pdf) | [![xjy497](https://cloud.githubusercontent.com/assets/18081243/18942115/071988a6-8606-11e6-8802-3e365442d9b7.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N497.pdf)
 ------------ | ------------- | -------------
 [![xjy496](https://cloud.githubusercontent.com/assets/18081243/18397467/e4516b84-76b7-11e6-9fc4-a125c974c162.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N496.pdf) |  [![xjy495](https://cloud.githubusercontent.com/assets/18081243/18397465/e17e6a60-76b7-11e6-8170-11fde29c468d.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N495.pdf) | [![xjy494](https://cloud.githubusercontent.com/assets/18081243/17914450/cf6afb78-6991-11e6-8662-1a73da7c8dab.jpg)](https://d1zsng9cxdrwyc.cloudfront.net/pdf/xjyzk/N494.pdf) 
